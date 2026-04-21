@@ -1,0 +1,24 @@
+lista1 + lista2
+##################
+sum(lista)
+max(lista)
+min(lista)
+###################
+sorted(lista)      # nueva lista
+lista.sort()       # modifica original
+###################
+append()   # agregar
+extend()   # agregar múltiples
+insert()   # insertar en posición
+pop()      # eliminar último
+remove()   # eliminar valor
+clear()    # vaciar
+copy()     # copiar
+count()    # contar
+reverse()  # invertir
+len()      # leer tamaño de algo
+######################
+sorted(lista)  # no modifica original
+lista.sort()   # sí modifica original
+#####################################
+lista[0] = 10  # permitido

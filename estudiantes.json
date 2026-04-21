@@ -1,0 +1,18 @@
+[
+    {
+        "cedula": "0944202118",
+        "nombre": "Elian Galeas",
+        "edad": 22,
+        "carrera": "Ing De Sof",
+        "notas": [
+            {
+                "materia": "Calculo",
+                "nota": 10.0
+            },
+            {
+                "materia": "Poo",
+                "nota": 10.0
+            }
+        ]
+    }
+]
