@@ -28,7 +28,7 @@ pi.presentarse()
 p=empleado("ABC",30)
 p.promediar()
 print(p.promediar())
-agregar_cosas("Elian", 890)
+
 
 #revisar
 carritos=[]
