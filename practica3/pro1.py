@@ -32,6 +32,7 @@ class Admin: # Las clases suelen empezar con Mayúscula
             self._contraseña = valor
         else:
             print("Error: Falta seguridad (mínimo 10 caracteres)")
-a=Admin("elian",2131231242341123)
+a=Admin("elian",2131)
 print(a.contraseña) 
-print(a.nombre)           
+print(a.nombre)    
+    
